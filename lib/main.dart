@@ -5,10 +5,10 @@ import 'package:rick_and_morty_app/providers/api_provider.dart';
 import 'package:rick_and_morty_app/screens/character_screen.dart';
 import 'package:rick_and_morty_app/screens/home_screen.dart';
 import 'package:provider/provider.dart';
-import 'package:flutter_driver/driver_extension.dart';
+// import 'package:flutter_driver/driver_extension.dart';
 
 void main() {
-  enableFlutterDriverExtension();
+  // enableFlutterDriverExtension();
   runApp(const MyApp());
 }
 
