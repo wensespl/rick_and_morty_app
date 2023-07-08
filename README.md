@@ -18,6 +18,32 @@ appium driver install uiautomator2
 ```
 
 - [Descargar Appium inspector](https://github.com/appium/appium-inspector/releases)
+- [Descargar el APK](https://github.com/wensespl/rick_and_morty_app/releases)
+
+Nota: De ser necesario tener definido las variables de entorno
+
+> ANDROID HOME
+> ANDROID SDK ROOT
+
+Uso:
+
+Iniciar un servidor de Appium
+
+```console
+appium
+```
+
+Configuracion basica del Appium Inspector
+
+```JSON
+{
+  "platformName": "Android",
+  "appium:automationName": "UiAutomator2",
+  "appium:deviceName": "Pixel 2 API 29",
+  "appium:appPackage": "com.example.rick_and_morty_app",
+  "appium:appActivity": ".MainActivity"
+}
+```
 
 ## Getting Started
 
