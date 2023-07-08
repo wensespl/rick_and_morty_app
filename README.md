@@ -20,10 +20,10 @@ appium driver install uiautomator2
 - [Descargar Appium inspector](https://github.com/appium/appium-inspector/releases)
 - [Descargar el APK](https://github.com/wensespl/rick_and_morty_app/releases)
 
-Nota: De ser necesario tener definido las variables de entorno
+Nota: De ser necesario tener definido las variables de entorno `ANDROID_HOME` y `ANDROID_SDK_ROOT`
 
-> ANDROID HOME
-> ANDROID SDK ROOT
+> ANDROID_HOME
+> ANDROID_SDK_ROOT
 
 Uso:
 
