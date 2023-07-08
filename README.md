@@ -22,9 +22,6 @@ appium driver install uiautomator2
 
 Nota: De ser necesario tener definido las variables de entorno `ANDROID_HOME` y `ANDROID_SDK_ROOT`
 
-> ANDROID_HOME
-> ANDROID_SDK_ROOT
-
 Uso:
 
 Iniciar un servidor de Appium
