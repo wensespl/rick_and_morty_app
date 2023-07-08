@@ -42,6 +42,14 @@ Configuracion basica del Appium Inspector
 }
 ```
 
+Ejecutar pruebas con python:
+
+```console
+pip install Appium-Python-Client
+```
+
+Ejecutar script del archivo `test\test.py`
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
