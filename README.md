@@ -2,6 +2,23 @@
 
 A new Flutter project.
 
+## Automatizacion de pruebas con Appium
+
+Requisitos:
+
+- NodeJS (npm)
+- Android Studio (Android SDK, Java JDK)
+- Python
+
+Instalacion:
+
+```console
+npm i -g appium@next
+appium driver install uiautomator2
+```
+
+- [Descargar Appium inspector](https://github.com/appium/appium-inspector/releases)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
